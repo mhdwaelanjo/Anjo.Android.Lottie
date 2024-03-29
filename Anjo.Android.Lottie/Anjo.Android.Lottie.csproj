@@ -7,17 +7,17 @@
 	</PropertyGroup>
 	<PropertyGroup>
 		<PackageId>Anjo.Android.Lottie</PackageId>
-		<PackageVersion>6.3.0</PackageVersion>
-		<AssemblyVersion>6.3.0</AssemblyVersion>
-		<FileVersion>6.3.0</FileVersion>
-		<Version>6.3.0</Version>
+		<PackageVersion>6.4.0</PackageVersion>
+		<AssemblyVersion>6.4.0</AssemblyVersion>
+		<FileVersion>6.4.0</FileVersion>
+		<Version>6.4.0</Version>
 		<Title>Anjo Android Lottie SDK</Title>
 		<Authors>Wael Anjo</Authors>
 		<Owners>Wael Anjo</Owners>
 		<PackageProjectUrl>https://github.com/mhdwaelanjo/Anjo.Android.Lottie</PackageProjectUrl>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<Description>.NET for Android (formerly Xamarin.Android) Binding Library - Lottie SDK</Description>
-		<PackageReleaseNotes>Lottie SDK v6.3.0</PackageReleaseNotes>
+		<PackageReleaseNotes>Lottie SDK v6.4.0</PackageReleaseNotes>
 		<Copyright>Copyright (c) 2024 Wael Anjo</Copyright>
 		<PackageTags>Xamarin.Android, Lottie, animation</PackageTags>
 		<Summary>Lottie is an animation library that renders Adobe After Effects animations natively in realtime.</Summary>
@@ -29,7 +29,7 @@
 		<PackageIcon>icon.png</PackageIcon>
 	</PropertyGroup>
 	<ItemGroup>
-	  <None Remove="Jars\lottie-6.3.0.aar" />
+	  <None Remove="Jars\lottie-6.4.0.aar" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Include="..\icon.png">
