@@ -4,7 +4,7 @@
 Lottie Android SDK for .NET for Android (formerly Xamarin.Android) Binding Library - Wael Anjo
 ---------------------------------
 
-[![NuGet](https://buildstats.info/nuget/Anjo.Android.Lottie)](https://www.nuget.org/packages/Anjo.Android.Lottie/)
+[![NuGet Version](https://img.shields.io/nuget/v/Anjo.Android.Lottie)](https://www.nuget.org/packages/Anjo.Android.Lottie) [![GitHub License](https://img.shields.io/github/license/mhdwaelanjo/Anjo.Android.Lottie)](https://github.com/mhdwaelanjo/Anjo.Android.Lottie/blob/master/LICENSE.txt)
 
 Lottie is an animation library that renders Adobe After Effects animations natively in realtime.
  
